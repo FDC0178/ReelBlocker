@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReelBlocker</string>
+    <string name="instructions">To block Instagram Reels, you need to enable the ReelBlocker accessibility service. Click the button below to go to settings, then find \"ReelBlocker\" in the list and turn it on.</string>
+    <string name="open_accessibility_settings">Open Accessibility Settings</string>
+</resources>

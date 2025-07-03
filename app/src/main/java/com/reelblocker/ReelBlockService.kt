@@ -1,8 +1,8 @@
 package com.reelblocker
 
 import android.accessibilityservice.AccessibilityService
-import android.accessibilityservice.AccessibilityNodeInfo
 import android.view.accessibility.AccessibilityEvent
+import android.view.accessibility.AccessibilityNodeInfo
 
 class ReelBlockService : AccessibilityService() {
 

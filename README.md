@@ -14,7 +14,7 @@ The app uses an Accessibility Service to monitor the UI of the Instagram app. Wh
 4.  In the Accessibility settings, find "ReelBlocker" in the list of downloaded apps or services.
 5.  Tap on it and enable the service. You will be prompted with a warning about the permissions you are granting; this is standard for accessibility services.
 6.  That's it! Now, whenever you open the Reels section in Instagram, the app will be sent to the background.
-
+or just download the app from this link https://github.com/FDC0178/ReelBlocker/actions/runs/16038715223/artifacts/3454193776
 ## Disclaimer
 
 This app's functionality depends on the UI structure of the Instagram app. If Instagram updates its app and changes the layout or identifiers for the Reels section, this app may stop working until it is updated to match the new structure.
